@@ -1,4 +1,4 @@
-# AIRGurd-AI
+# Airborne Threat Detection in Surveillance (PS_01)
 
 ## Overview
 Airborne threats, such as drones or other flying objects, pose significant security risks in surveillance scenarios. This project aims to detect airborne threats using deep learning techniques. We collected a dataset from various platforms, applied data augmentation and annotation techniques to improve detection accuracy, and trained a YOLOv8 model on Google Colab using a dataset of 25,000 images.
@@ -85,7 +85,12 @@ To improve the model’s generalization and robustness, we applied:
    python detect.py --source test_video.mp4 --weights best.pt
    ```
 
-
+## Contributors
+- **Prathmesh Dhone**
+- **Kalpesh Borse**
+- **Pragati Gomare**
+- **Sarthak Manmode**
 
 ## Acknowledgments
 We acknowledge open-source datasets and tools like Kaggle, Roboflow, and Ultralytics for making this research possible.
+
