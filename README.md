@@ -85,12 +85,6 @@ To improve the model’s generalization and robustness, we applied:
    python detect.py --source test_video.mp4 --weights best.pt
    ```
 
-## Contributors
-- **Prathmesh Dhone**
-- **Kalpesh Borse**
-- **Pragati Gomare**
-- **Sarthak Manmode**
-
 ## Acknowledgments
 We acknowledge open-source datasets and tools like Kaggle, Roboflow, and Ultralytics for making this research possible.
 
